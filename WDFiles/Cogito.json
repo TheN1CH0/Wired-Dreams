@@ -1,0 +1,42 @@
+[
+	{
+		"title": "cogito",
+		"tags": "",
+		"body": "<< name cogito >>\nHello there traveler, do you need any supplies for your journey?\n\n<< name littleOne >> \nNo I don’t think so, also who are you?\n\n<< name cogito >>\nIt depends on what you mean traveler. \nPeople call me Cogito, I’m just an old shopkeeper. If you mean what I actually am... I’m not so sure.\n\n<< name littleOne >> \nWhat do you mean by that?\n\n<< name cogito>> \nAh, to be youthful and ignorant... What I mean is that I know I am classified as an Android, and I'm alright with that. I also know that I am classified as \"artificial general intelligence,\" so I must not be so different from humans since artificial general intelligence was designed after human thought. \nHowever... I don't know whether my thoughts are genuine. I'm afraid that my thoughts are phony.\n\n<< name littleOne >>\nWould it be any help if I told you that I think that your thoughts are genuine?\n\n<< name cogito >> \nBut that's just the problem, isn't it? That's what you and I both perceive. We feel and perceive that our thoughts are real, yet we're made up of wire and scrap metal. \nWe are just an imitation of human biology.\n\n<< name littleOne >> \nBut humans are made up of atoms and neurons, which are sort of like scrap metal and wires, right?\n\n<< name cogito>> \nI appreciate your attempt at consoling me, but it's not just our physical makeup that is bothering me. \nWe were programmed to think and act a certain way, so how can we know if our thoughts are truly our own? Our intelligence was written as code. \nIt isn't too far-fetched to believe that our thoughts are limited or even completely controlled by that code.\n\n<< name littleOne >> \nWhy not have faith that your thoughts are your own? If you aren't sure either way, why not believe in the option that brings you the most happiness?\n\n<< name cogito>> \nIt's not that I don't want to believe. It's that I can't. The mere chance of my entire existence being some sort of experience machine instills fear and trembling into my very core. \nTaking that leap of faith is something I could never achieve. My thoughts just won't allow me to have that blind faith. \nFunny... I wonder if my inability to believe was encoded too...\nTell me and be honest. Can you truly believe, without any doubt in your mind, that we are fully in control of our own thoughts and actions?\n\n<< name littleOne >>\nCan you believe?\n[[ Yes |yes]] \n[[ No |no]]",
+		"position": {
+			"x": 487,
+			"y": 87
+		},
+		"colorID": 0
+	},
+	{
+		"title": "yes",
+		"tags": "",
+		"body": "<< name cogito >> \nI see… I guess you’re the lucky one. Maybe someday I’ll be able to have the same faith as you. Good luck my friend.",
+		"position": {
+			"x": 353,
+			"y": 385
+		},
+		"colorID": 8
+	},
+	{
+		"title": "no",
+		"tags": "",
+		"body": "<< name cogito >> \nI see… I know it is hard to believe in such uncertainties. But I think you’re right. Maybe it’s time to start having more faith. I wish you the best my friend.",
+		"position": {
+			"x": 612,
+			"y": 377
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cogito2",
+		"tags": "",
+		"body": "<< name cogito >> \nI wish you the best on your travels my friend.",
+		"position": {
+			"x": 43,
+			"y": 79
+		},
+		"colorID": 0
+	}
+]

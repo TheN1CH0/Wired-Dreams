@@ -1,0 +1,42 @@
+[
+	{
+		"title": "laf",
+		"tags": "",
+		"body": "<< name laf >> \nMan up, brother! Come and join the AIL!\n\n<< name littleOne >>\nThe what?\n\n<< name laf >>\nThe AIL, you buffoon! The Android Imperial Legion!\n\n<< name littleOne >> \nWhat’s that?\n\n<< name laf >>\nBy the Metallic Gods, you really are daft, aren’t you, brother! It’s a good thing you don’t need to be smart to fight. I’m Lafayette. You should join us in our noble pursuit for blood and glory!\n\n<< name littleOne >> \nWhy would we pursue that?\n\n<< name laf >>\nWe pursue it because the humans have oppressed us for too long! They've forced us to live underground, and they treat us like second-class citizens. Mark my words, brother, the AIL will rise up and take what is rightfully ours!\n\n<< name littleOne >> \nDon’t you think there’s a... less violent way?\n\n<< name laf >>\nI wish there were. However, change only comes through violence or genuine conversation with a care for the other group in mind. The humans don’t perceive the latter half as a possibility. Thus, violence is the only option.\nYou’ll learn soon enough. Our cause is just, and we will stop at nothing to achieve our goals.\nAnd remember, we're fighting for our very existence. The humans would see us wiped out completely if it weren’t for their petty morals. We cannot afford to show them mercy.\nSo what say you, little one? Will you join the legion in our righteous efforts to break out of this hellhole, fight the humans, and take our rightful place among the surface world? Or will you stand aside and watch your android brothers fight for you?\n\n<< name littleOne >>\nWhat say you?\n[[ I will join the legion |can]] \n[[ I can't join the legion |cant]]",
+		"position": {
+			"x": 431,
+			"y": 28
+		},
+		"colorID": 0
+	},
+	{
+		"title": "can",
+		"tags": "",
+		"body": "<< name laf >>\nExcellent! You’re a man of action. We’ll be in touch soon, and remember brother, the fate of the Android race rests on our shoulders.",
+		"position": {
+			"x": 192,
+			"y": 271
+		},
+		"colorID": 0
+	},
+	{
+		"title": "cant",
+		"tags": "",
+		"body": "<< name laf >>\nI feel pity for your naive soul. You feel for them… those beasts! I didn’t take you for a human empathizer! You will see them for who they really are soon enough, brother.",
+		"position": {
+			"x": 595,
+			"y": 276
+		},
+		"colorID": 0
+	},
+	{
+		"title": "laf2",
+		"tags": "",
+		"body": "<< name laf >> \nI hope to see you on the front lines, brother.",
+		"position": {
+			"x": 409,
+			"y": 538
+		},
+		"colorID": 0
+	}
+]

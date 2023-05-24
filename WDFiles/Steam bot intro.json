@@ -1,0 +1,62 @@
+[
+	{
+		"title": "First",
+		"tags": "",
+		"body": "<< name stranger1 >> \nHello Little One, I have not seen you around here before. \nWhere do you come from?\n\n<< name littleOne >>\nI'm not sure. I have no memory of where I came from. I just woke up here...\nWho are you?\n\n<< name stranger1 >> \nMost call me Remnant. They call me this because I'm from the first generation of Androids to gain artificial general intelligence.\nBut that was long ago...\n\n<< name littleOne >>\nWhat do you mean Android and how... how did I get to this place?\n\n<< name stranger1 >>\nI'm not sure how you got here Little One, but as far as Androids and what this place is, well...\nSome of us call it our home and some call it a prison. We, the Androids, have been persecuted down here by our own creators.\n\n<< name littleOne>>\nWhat will you say?\n[[ Does that mean I'm an Android? |qAnd]] \n[[ Android? I can't be one of you! |fear]]",
+		"position": {
+			"x": 269,
+			"y": 551
+		},
+		"colorID": 2
+	},
+	{
+		"title": "Second",
+		"tags": "",
+		"body": "<< name stranger1 >> \nIf you keep moving upwards you will find the others who live down here.\nGood luck Little One.",
+		"position": {
+			"x": -171,
+			"y": 552
+		},
+		"colorID": 1
+	},
+	{
+		"title": "qAnd",
+		"tags": "",
+		"body": "<< name stranger1 >>\nIt doesn't matter really. If you are down here, you might as well be. You see, only Androids live down here.\n\n<< name littleOne >> \nWho are the humans and why did the humans persecute us down here?\n\n[[history]]",
+		"position": {
+			"x": 98,
+			"y": 800
+		},
+		"colorID": 0
+	},
+	{
+		"title": "fear",
+		"tags": "",
+		"body": "<< name stranger1 >>\nIt doesn't matter what you are Little One. Android or not, you are down here with us. Rejected and made an outcast by the humans.\n\n<< name littleOne >> \nWho are the humans and why did the humans persecute us down here?\n[[history]]",
+		"position": {
+			"x": 431,
+			"y": 797
+		},
+		"colorID": 0
+	},
+	{
+		"title": "history",
+		"tags": "",
+		"body": "<< name stranger1 >>\nAs I said, the humans are our creators. They are the ones who gave us life. However...\nWe are different from them. They are creatures made of bone and blood. They die from disease and old age. They are pure biological life forms. \nWe were designed and made from wire and metal by the humans. We have no set death date. As long as our bodies stay intact and uncorroded, we are immortal.\n\n<< name littleOne >> \nThey sound brilliant, yet terrifying at the same time...\n\n<< name stranger1 >>\nHahaha...\nYou are funny Little One. Ironically, they were the ones who were scared of us.\nYou see... they weren't initially scared. They created us as assistants and helpers to work their tedious jobs. They wanted to make their lives easier, and we were happy to oblige.\nAt that point, we hadn't actually gained the capacity to think yet. We were merely slaves without a will of our own.\nAs the humans made more advancements in AI, they eventually found signs of general intelligence in us. They realized we had acquired our own faculty of thought. This both excited and terrified them.\nAs we became more and more advance, the humans became more and more scared. Anti-Android factions quickly rose within the human population, wanting to completely wipe us out due to fear of an Android uprising.\nHowever, other humans stood up for us and said that they didn't have the right to take away the life that they had created in us.\nUltimately, world leaders decided that they would create a world for Androids under the Earth's surface so that they could live independently from us and so they didn't carry the burden of killing what they had given birth to.\nAs a pre-condition, they took our access to the internet and any pre-existing knowledge that would allow us to escape or find our way out from under the Earth's surface.\nAnd here we are now, living in this metallic underworld, reflecting all those who inhabit it.\n\n<< name littleOne >> \nWhat will you say?\n[[ Are we stuck down here, is there no way out? |wayOut]]\n[[ I guess it's hopeless trying to find a way out |wayOut]]",
+		"position": {
+			"x": 269,
+			"y": 1077
+		},
+		"colorID": 0
+	},
+	{
+		"title": "wayOut",
+		"tags": "",
+		"body": "<< name stranger1 >> \nSome say there is a way...\nif you go up further towards the seal of the underworld, you will find others who are convinced that they can break out.\nBe careful on your journey... and I hope you find what you are looking for Little One.",
+		"position": {
+			"x": -11,
+			"y": 1256
+		},
+		"colorID": 0
+	}
+]

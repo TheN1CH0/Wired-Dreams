@@ -1,0 +1,52 @@
+[
+	{
+		"title": "Crusty",
+		"tags": "",
+		"body": "<< name crusty >> \nHey you!\nYeah the small lookin' purple one.\nYou got any motor oil by chance? I'm really cravin' some ya see? I haven't had any in days!\nCould you spare any?\n\n<< name littleOne>>\n[[ No, I can't.|Nomot]] \n[[ I would if I had any. Sadly I don't. |sadnomot]]",
+		"position": {
+			"x": 568,
+			"y": 351
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Crusty2",
+		"tags": "",
+		"body": "<< name crusty >> \nScram ya jerk!",
+		"position": {
+			"x": 331,
+			"y": 350
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Nomot",
+		"tags": "",
+		"body": "<< name crusty >>\nYeah sure you can't...\n\n<< name littleOne >>\nLook, I promise I don't have any.\n[[look]]",
+		"position": {
+			"x": 812,
+			"y": 124
+		},
+		"colorID": 0
+	},
+	{
+		"title": "sadnomot",
+		"tags": "",
+		"body": "<< name crusty >> \nYeah, I'm sure. I bet you used it all your self!\n\n<< name littleOne >>\nLook, I promise I don't have any.\n[[look]]",
+		"position": {
+			"x": 842,
+			"y": 493
+		},
+		"colorID": 0
+	},
+	{
+		"title": "look",
+		"tags": "",
+		"body": "<< name crusty >>\nYou jerk! You're totally hoggin' all the motor oil to yourself!\nThis is what I hate about this place. Everyone is the same... and you're no different. \nNo one down here has any damn empathy in their cold, wire brains. Even if I were the last damn bot on earth, you wouldn't spare anything for me. \n\n<< name littleOne >> \nBut...\n\n<< name crusty>> \nI don't wanna hear it! Now get out of here! I don't want to see that selfish purple face of yours anymore.",
+		"position": {
+			"x": 1114,
+			"y": 298
+		},
+		"colorID": 0
+	}
+]

@@ -1,0 +1,32 @@
+[
+	{
+		"title": "EndBot",
+		"tags": "",
+		"body": "<< name noone >> \nOh jeez, you scared me!\n\n<< name littleOne >> \nOh, I’m sorry!\n\n<< name noone >> \nIt’s quite alright, I wasn’t doing anything important anyway.\n\n<< name littleOne >>\nWhat are those doors behind you?\n\n<< name noone >> \nAh… those are the doors to the human world. They built multiple to ensure that we would be locked down here. I’ve been here for a while now, hoping that one day they might open.\n\n<< name littleOne >>\nDon’t you want to do anything else than sit here and wait?\n\n<< name noone >> \nNo, no I don’t. I just want to sit here and wait. I once had a dream that these doors opened one day, and I want to be here when my dream comes true.\n\n<< name littleOne >>\nWhat was your dream like?\n\n<< name noone >> \nPast the doors, I saw the vast blue oceans and walked among the lush green forests of the overworld.\nAlthough, I only know what those things look like from old books and movies...\nSpeaking of books and dreams, I read this book once. I can’t quite remember what it was called, but I do remember that the main character asked himself “do androids dream?”\nI really can’t tell you whether what I feel are dreams or some sort of error in my code, but I like to think they are dreams. I hope my dreams come true, and that one day we will escape this place and be allowed our own spot in the overworld.\n...\nTell me, do you believe in dreams?\n\n<< name littleOne >>\nDo you believe in dreams?\n[[ I do |Ido]]\n[[ I'm not sure |Notsure]]",
+		"position": {
+			"x": 324,
+			"y": -80
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Ido",
+		"tags": "",
+		"body": "<< name noone >>\nI see… maybe i shouldn’t feel to bad for wasting my days “dreaming”, or whatever it might be. \nYou know, a human from long ago once said, “I dream. Sometimes I think that's the only right thing to do.”\nI like to think that he was right...",
+		"position": {
+			"x": 176,
+			"y": 155
+		},
+		"colorID": 0
+	},
+	{
+		"title": "Notsure",
+		"tags": "",
+		"body": "<< name noone>> \nI see… i guess it really doesn’t matter what you label these dreams, thoughts, or encoded experiences. I remember hearing someone say something once that stuck with me:\n“all that we see or seem is but a dream within a dream.”\nI like to think that he was right...",
+		"position": {
+			"x": 486,
+			"y": 155
+		},
+		"colorID": 0
+	}
+]
