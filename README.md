@@ -5,4 +5,6 @@ This is a video game that I programmed in GDevelop for a class. I had no prior e
 
 Check out the [web browser game](https://then1ch0.itch.io/wired-dreams) on my itch.io.
 
+Download the .zip file to look at the code.
+
 Enjoy!
